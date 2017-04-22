@@ -1,9 +1,14 @@
-# api documentation for  [gulp-webpack (v1.5.0)](https://github.com/shama/gulp-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-webpack)
+# npmdoc-gulp-webpack
+
+#### api documentation for  [gulp-webpack (v1.5.0)](https://github.com/shama/gulp-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-webpack)
+
 #### webpack
 
-[![NPM](https://nodei.co/npm/gulp-webpack.png?downloads=true)](https://www.npmjs.com/package/gulp-webpack)
+[![NPM](https://nodei.co/npm/gulp-webpack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-webpack)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-webpack%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-webpack/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Kyle Robinson Young",
-        "email": "kyle@dontkry.com",
         "url": "http://dontkry.com"
     },
     "bugs": {
@@ -60,17 +64,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "shama",
-            "email": "kyle@dontkry.com"
+            "name": "shama"
         }
     ],
     "name": "gulp-webpack",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/shama/gulp-webpack.git"
@@ -78,19 +79,10 @@
     "scripts": {
         "test": "node test/test.js"
     },
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-webpack](#apidoc.module.gulp-webpack)
-
-
-
-# <a name="apidoc.module.gulp-webpack"></a>[module gulp-webpack](#apidoc.module.gulp-webpack)
 
 
 
